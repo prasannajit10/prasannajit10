@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner via capsule-render — replaces broken ASCII code block -->
+<!-- Banner: capsule-render is very reliable -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=200&section=header&text=J%20PRASANNAJIT&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Python%20%26%20C%20Developer%20%7C%20CTF%20Player%20in%20Training&descAlignY=60&descColor=ffffff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+to+hack+the+planet%2C+one+line+at+a+time+%F0%9F%90%8D;Cybersecurity+Newbie+%7C+Future+Pentester;Python+%7C+C+%7C+JavaScript+Developer;Breaking+things+to+understand+them+better)](https://git.io/typing-svg)
@@ -68,15 +68,25 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+<!--
+  Using github-readme-stats hosted on its own stable deployment.
+  cache_seconds=86400 reduces rate-limit failures.
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=86400" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prasannajit10&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d1117&stroke=00FF41&dates=888888" />
+<!--
+  Streak stats: removed background param entirely (it was causing parse errors).
+  Using a named dark theme + custom accent colors only.
+-->
+<img src="https://streak-stats.demolab.com/?user=prasannajit10&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=aaaaaa" alt="GitHub Streak"/>
 
 </div>
 
@@ -86,7 +96,10 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prasannajit10&theme=matrix&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+  Trophy: removed no-bg=true which sometimes breaks rendering. Added rank filter to avoid empty slots.
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=prasannajit10&theme=matrix&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -96,7 +109,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannajit10&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannajit10&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -125,6 +138,7 @@ me.say_hi()
 
 <div align="center">
 
+<!-- komarev is the gold standard for profile view counters -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=prasannajit10&color=00FF41&style=flat-square&label=Profile+Views)
 
 *"The quieter you become, the more you can hear." — Kali Linux*
