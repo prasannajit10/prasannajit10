@@ -1,17 +1,9 @@
 <div align="center">
 
-```
-██████╗ ██████╗  █████╗ ███████╗ █████╗ ███╗   ██╗███╗   ██╗ █████╗      ██╗██╗████████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔══██╗     ██║██║╚══██╔══╝
-██████╔╝██████╔╝███████║███████╗███████║██╔██╗ ██║██╔██╗ ██║███████║     ██║██║   ██║   
-██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██║╚██╗██║██║╚██╗██║██╔══██║██   ██║██║   ██║   
-██║     ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║██║ ╚████║██║  ██║╚█████╔╝██║   ██║   
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝   
-```
+<!-- Banner via capsule-render — replaces broken ASCII code block -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=200&section=header&text=J%20PRASANNAJIT&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Python%20%26%20C%20Developer%20%7C%20CTF%20Player%20in%20Training&descAlignY=60&descColor=ffffff&animation=fadeIn)
 
-### 🔒 Cybersecurity Enthusiast · Python & C Developer · CTF Player in Training
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+to+hack+the+planet%2C+one+line+at+a+time+🐍;Cybersecurity+Newbie+%7C+Future+Pentester;Python+%7C+C+%7C+JavaScript+Developer;Breaking+things+to+understand+them+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+to+hack+the+planet%2C+one+line+at+a+time+%F0%9F%90%8D;Cybersecurity+Newbie+%7C+Future+Pentester;Python+%7C+C+%7C+JavaScript+Developer;Breaking+things+to+understand+them+better)](https://git.io/typing-svg)
 
 </div>
 
@@ -76,15 +68,15 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prasannajit10&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img src="https://streak-stats.demolab.com/?user=prasannajit10&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d1117&stroke=00FF41&dates=888888" />
 
 </div>
 
@@ -104,7 +96,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Prasannajit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannajit10&theme=matrix&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannajit10&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -133,10 +125,12 @@ me.say_hi()
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/prasannajit10/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=prasannajit10&color=00FF41&style=flat-square&label=Profile+Views)
 
 *"The quieter you become, the more you can hear." — Kali Linux*
 
 ⭐ **Star my repos if you find them useful!**
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=100&section=footer)
 
 </div>
