@@ -1,66 +1,114 @@
 <div align="center">
 
-<!-- Banner: capsule-render is very reliable -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00FF41&height=200&section=header&text=J%20PRASANNAJIT&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Python%20%26%20C%20Developer%20%7C%20CTF%20Player%20in%20Training&descAlignY=60&descColor=ffffff&animation=fadeIn)
+# J Prasannajit
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+to+hack+the+planet%2C+one+line+at+a+time+%F0%9F%90%8D;Cybersecurity+Newbie+%7C+Future+Pentester;Python+%7C+C+%7C+JavaScript+Developer;Breaking+things+to+understand+them+better)](https://git.io/typing-svg)
+**Cybersecurity Student · Blue Team · Network Forensics · DFIR**
 
-</div>
-
----
-
-## 👾 About Me
-
-```python
-class Prasannajit:
-    def __init__(self):
-        self.name       = "J Prasannajit"
-        self.alias      = "prasannajit10"
-        self.location   = "India 🇮🇳"
-        self.focus      = "Cybersecurity"
-        self.languages  = ["Python 🐍", "C", "JavaScript"]
-        self.learning   = ["Ethical Hacking", "Network Security", "CTF Challenges"]
-        self.goal       = "Break things legally, fix them better"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build and break stuff together. 🔐")
-
-me = Prasannajit()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jprasannajit-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jprasannajit)
+[![GitHub](https://img.shields.io/badge/GitHub-prasannajit10-181717?style=flat&logo=github&logoColor=white)](https://github.com/prasannajit10)
+[![Email](https://img.shields.io/badge/Email-prasannajitj67@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasannajitj67@gmail.com)
 
 </div>
 
 ---
 
-## 🔐 Cybersecurity Interests
+## 👋 About Me
 
-<div align="center">
+Final-year **B.Tech CSE (Cyber Security)** student at ITER, SOA University, Bhubaneswar.  
+I focus on **network forensics, anomaly detection, and blue team operations** — building tools that bridge the gap between raw packet data and actionable security intelligence.
 
-| 🎯 Area | 📚 Status |
+- 🔭 Currently building: **NetSentinel** — a network anomaly detection & DFIR reporting tool
+- 🎓 Cybersecurity trainee at **EY GDS**, with exposure to SOC workflows, SIEM, OSINT, and IAM
+- 📜 Certified: **Fortinet NSE 1, NSE 2, NSE 3**
+- 🌱 Learning: Wazuh, Splunk, and advancing into threat hunting
+- 🎯 Goal: Blue team role in network forensics or SOC operations
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### Digital Forensics
+![Autopsy](https://img.shields.io/badge/Autopsy-2C2C2C?style=flat&logoColor=white)
+![Volatility3](https://img.shields.io/badge/Volatility3-2C2C2C?style=flat&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-2C2C2C?style=flat&logoColor=white)
+![Bulk Extractor](https://img.shields.io/badge/Bulk_Extractor-2C2C2C?style=flat&logoColor=white)
+![Foremost](https://img.shields.io/badge/Foremost-2C2C2C?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+### Network & Recon
+![Scapy](https://img.shields.io/badge/Scapy-2C2C2C?style=flat&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=flat&logoColor=white)
+![Netdiscover](https://img.shields.io/badge/Netdiscover-2C2C2C?style=flat&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego_CE-2C2C2C?style=flat&logoColor=white)
+
+### Assessment & Exploitation
+![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=flat&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-2C2C2C?style=flat&logoColor=white)
+
+### SIEM & SOC
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-2C2C2C?style=flat&logoColor=white)
+
+### OS & Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ [NetSentinel — Network Anomaly Detection & DFIR Reporter](https://github.com/prasannajit10/netsentinel)
+
+> A Python-based network forensics tool that detects anomalies in live traffic and PCAP files, computes forensic hashes for chain-of-custody, and generates SIEM-ready reports.
+
+**What it does:**
+
+| Detection Rule | Description |
 |---|---|
-| Network Security | 🟡 Learning |
-| Ethical Hacking | 🟡 Learning |
-| CTF Challenges | 🟢 Active |
-| Python Scripting for Security | 🟢 Active |
-| Linux & CLI Tools | 🟢 Active |
-| Web Application Security | 🔴 Up Next |
+| DDoS Detection | Flags sources sending > 500 packets/min |
+| TCP SYN Flood | Detects > 200 unanswered SYNs from a single source |
+| ARP Spoofing | Identifies unsolicited ARP replies |
+| ICMP Flood | Flags excessive echo requests |
+| DNS Amplification | Detects responses > 512 bytes |
+| Port Scanning | Identifies IPs touching > 20 distinct ports |
+| Packet Size Anomaly | Flags oversized or suspiciously tiny packets |
+| Uncommon Ports | Highlights traffic to non-standard ports |
 
-</div>
+**Key features:**
+- 🔐 MD5 / SHA256 hashing with automated chain-of-custody log (DFIR standard)
+- 🗺️ Nmap enrichment of flagged IPs for port and service correlation
+- 📊 SIEM-ready JSON export (Splunk / Wazuh compatible)
+- 🌐 Colour-coded HTML investigation report (Jinja2)
+- ✅ Unit tested with pytest using synthetically crafted packets
+
+**Stack:** `Python` `Scapy` `Nmap` `Jinja2` `pytest`
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Fortinet NSE 3 — Network Security Associate | Fortinet Network Security Academy | 2026 |
+| Fortinet NSE 2 — Network Security Associate | Fortinet Network Security Academy | 2026 |
+| Fortinet NSE 1 — Network Security Associate | Fortinet Network Security Academy | 2026 |
+| OSINT Fundamentals | EY GDS Workshop | 2025 |
+
+---
+
+## 📚 Currently Studying
+
+- Advanced memory forensics with Volatility3
+- Threat hunting workflows in Splunk and Wazuh
+- Network packet analysis and protocol dissection
+- Penetration testing fundamentals with Metasploit and Nessus
 
 ---
 
@@ -68,83 +116,18 @@ me.say_hi()
 
 <div align="center">
 
-<!--
-  Using github-readme-stats hosted on its own stable deployment.
-  cache_seconds=86400 reduces rate-limit failures.
--->
-<img src="https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=86400" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages"/>
+![Prasannajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<!--
-  Streak stats: removed background param entirely (it was causing parse errors).
-  Using a named dark theme + custom accent colors only.
--->
-<img src="https://streak-stats.demolab.com/?user=prasannajit10&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=aaaaaa" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
 
-<!--
-  Trophy: removed no-bg=true which sometimes breaks rendering. Added rank filter to avoid empty slots.
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=prasannajit10&theme=matrix&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+*"Security is not a product, but a process."* — Bruce Schneier
 
-</div>
-
----
-
-## 📡 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannajit10&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jprasannajit_/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannajit10)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🏁 Complete my first CTF challenge
-- [ ] 🐍 Build a Python-based security tool
-- [ ] 📖 Complete a cybersecurity course (TryHackMe / HackTheBox)
-- [ ] 🔧 Contribute to an open-source security project
-- [ ] 🌐 Build a personal portfolio website
-
----
-
-<div align="center">
-
-<!-- komarev is the gold standard for profile view counters -->
-![Visitor Count](https://komarev.com/ghpvc/?username=prasannajit10&color=00FF41&style=flat-square&label=Profile+Views)
-
-*"The quieter you become, the more you can hear." — Kali Linux*
-
-⭐ **Star my repos if you find them useful!**
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d0d0d&height=100&section=footer)
+![Profile Views](https://komarev.com/ghpvc/?username=prasannajit10&color=blue&style=flat)
 
 </div>
