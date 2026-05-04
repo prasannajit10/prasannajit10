@@ -112,18 +112,6 @@ I focus on **network forensics, anomaly detection, and blue team operations** �
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Prasannajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasannajit10&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannajit10&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"Security is not a product, but a process."* — Bruce Schneier
